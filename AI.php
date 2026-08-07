@@ -2,7 +2,7 @@
 //@Php_Arash
 // کص ننت اگه منبع برداشتی 
 // ================== تنظیمات پایه ===================
-define('BOT_TOKEN', '78458934792368:AAG4L7BVMQfdVNE5wD15ZHliqKMbFUG91y8464086');//توکن
+define('BOT_TOKEN', '8934792368:AAG4L7BVMQfdVNE5wD15ZHliqKMbFUG91y8');//توکن
 define('ADMIN_ID', 7845464086);//آیدی عددی ادمین 
 define('LOG_FILE', 'bot_log.txt');
 define('DATA_FILE', 'bot_data.json');
